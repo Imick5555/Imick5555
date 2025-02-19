@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Isaac Miller and I am a passionate data science student. As I complete projects I will be posting them here.
 
 <!--
 **Imick5555/Imick5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
